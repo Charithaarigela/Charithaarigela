@@ -18,8 +18,8 @@ Seeking entry-level opportunities in Digital Forensics, Network Security, or AI-
 
 ## 🎓 Education
 
-**Master of Science in Information Assurance and Cybersecurity** (Final Semester)  
-Gannon University, Erie, PA | Expected May 2026
+**Master of Science in Information Assurance and Cybersecurity**   
+Gannon University, Erie, PA | december 2025
 
 **Bachelor of Engineering in Electronics and Communication Engineering**  
 JNTUH, Telangana, India | May 2024
