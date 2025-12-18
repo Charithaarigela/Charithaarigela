@@ -1,6 +1,6 @@
 # Charitha Arigela
 
-Welcome to my GitHub profile! I am a dedicated cybersecurity professional with a strong foundation in security analysis, vulnerability assessment, and network security. With hands-on experience in industry-standard security tools and a comprehensive academic background, I am passionate about protecting digital assets and identifying security vulnerabilities. I thrive on solving complex security challenges and staying current with emerging threats and defensive strategies.
+M.S. Information Assurance and Cybersecurity candidate with hands-on experience in penetration testing, network security, and AI/ML deployment. I specialize in vulnerability assessment, digital forensics, and packet analysis with a strong foundation in both defensive and offensive security practices. Passionate about leveraging emerging technologies to strengthen cybersecurity posture and protect digital assets.
 
 ---
 
@@ -10,57 +10,96 @@ Welcome to my GitHub profile! I am a dedicated cybersecurity professional with a
 - **Phone:** +1 (814) 504-2774
 - **LinkedIn:** [linkedin.com/in/charitha-arigela-37a942395](https://www.linkedin.com/in/charitha-arigela-37a942395/)
 
+- **Hugging Face:** [huggingface.co/charithaarigela](https://huggingface.co/charithaarigela)
+- **Location:** Erie, PA
 
 ---
 
 ## 🎓 Education
 
-**Master of Science in Cybersecurity**  
-Gannon University | 2025
+**Master of Science in Information Assurance and Cybersecurity** (Final Semester)  
+Gannon University, Erie, PA | Expected May 2026
+
+**Bachelor of Engineering in Electronics and Communication Engineering**  
+JNTUH, Telangana, India | May 2024
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Security Tools & Technologies
+### Cybersecurity Tools
+- **Penetration Testing:** Kali Linux, Burp Suite, Metasploit
+- **Vulnerability Assessment:** Nessus, Nmap
+- **Network Analysis:** Wireshark, Scapy, Cisco Packet Tracer
+- **Digital Forensics:** Autopsy
+- **Security Monitoring:** SIEM
 
-- **Vulnerability Assessment:** Nessus
-- **Web Application Security:** Burp Suite
-- **Network Analysis:** Wireshark
-- **Network Scanning:** Nmap
-- **Virtualization:** VirtualBox
+### AI/ML & Data Science
+- **Languages & Libraries:** Python (pandas, scikit-learn)
+- **Deployment:** Gradio, Hugging Face
+- **Development:** Jupyter Notebooks
 
-### Core Competencies
-
-- Security Risk Assessment
-- Vulnerability Management
-- Network Traffic Analysis
-- Penetration Testing
-- Security Monitoring & Incident Response
+### Networking & Protocols
+- OSI Model, TCP/IP, Subnetting
+- VLANs, DNS, Packet Analysis
 - Network Security Architecture
 
----
-
-## 💼 Professional Focus
-
-I am currently seeking opportunities as a **Cybersecurity Analyst** where I can leverage my technical expertise and academic background to:
-
-- Identify and mitigate security vulnerabilities
-- Conduct comprehensive security assessments
-- Analyze network traffic for potential threats
-- Implement security best practices
-- Contribute to organizational security posture
+### Programming & Development
+- **Languages:** Python, Bash, SQL
+- **Tools & Platforms:** Git, Docker, VS Code, VirtualBox
 
 ---
 
-## 🔍 Areas of Interest
+## 💻 Featured Projects
 
-- Threat Intelligence
-- Security Operations
-- Vulnerability Management
-- Network Security
-- Incident Response
-- Security Automation
+
+
+---
+
+## 💼 Professional Experience
+
+### Cybersecurity Lab Assistant
+**Gannon University** | Erie, PA | January 2025 – Present
+- Manage Kali Linux VMs for 40+ students; automate setup with Bash scripts
+- Teach hands-on labs covering Wireshark, subnetting, and OSI model concepts
+- Provide technical support and mentorship to cybersecurity students
+
+### Conference Volunteer
+**BSides Rock Conference** | Rochester, PA | June 2024
+- Supported 300+ attendees with registration, tech setup, and networking
+- Participated in cybersecurity track sessions and workshops
+- Awarded Participation Certificate for contributions to conference success
+
+---
+
+## 🏆 Certifications & Achievements
+
+- **CompTIA Security+** – In Progress (Expected April 2026)
+- **TryHackMe Top 1%** – Network and Forensics Paths (2024)
+- **BSides Rock Conference** – Participation Certificate (2024)
+
+---
+
+## 💼 Career Objectives
+
+I am actively seeking opportunities in **Digital Forensics**, **Network Security**, or **AI Security** where I can apply my technical expertise in:
+
+- Penetration testing and vulnerability assessment
+- Network traffic analysis and threat detection
+- Digital forensics and incident response
+- AI/ML applications in cybersecurity
+- Security automation and tool development
+
+---
+
+## 🔍 Areas of Expertise & Interest
+
+- **Penetration Testing** – Web applications, network infrastructure
+- **Digital Forensics** – Evidence collection, analysis, and reporting
+- **Network Security** – Traffic analysis, intrusion detection, packet inspection
+- **AI/ML Security** – Model deployment, biometric authentication
+- **Threat Intelligence** – Vulnerability research and CVE analysis
+- **Security Automation** – Scripting, tool development, workflow optimization
 
 ---
 
@@ -70,8 +109,10 @@ I am currently seeking opportunities as a **Cybersecurity Analyst** where I can 
 
 ## 🤝 Let's Connect
 
-I'm always interested in collaborating on cybersecurity projects and connecting with fellow security professionals. Feel free to reach out!
+I'm always interested in collaborating on cybersecurity projects, discussing emerging threats, or exploring opportunities in digital forensics and network security. Feel free to reach out via email or LinkedIn!
 
 ---
 
-⭐️ *Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities!*
+⭐️ *"Security is not a product, but a process." – Bruce Schneier*
+
+💡 **Open to:** Entry-level positions in Digital Forensics | Network Security | AI Security | SOC Analyst roles
