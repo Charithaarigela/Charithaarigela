@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a dedicated cybersecurity professional with a
 - **Email:** [charitharigela03@gmail.com](mailto:charitharigela03@gmail.com)
 - **Phone:** +1 (814) 504-2774
 - **LinkedIn:** [linkedin.com/in/charitha-arigela-37a942395](https://www.linkedin.com/in/charitha-arigela-37a942395/)
-- **Location:** [Add your location if desired]
+
 
 ---
 
@@ -66,9 +66,7 @@ I am currently seeking opportunities as a **Cybersecurity Analyst** where I can 
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
 
----
 
 ## 🤝 Let's Connect
 
