@@ -1,8 +1,6 @@
 # Charitha Arigela
 
-## Cybersecurity Analyst
-
-Welcome to my GitHub profile! I am a cybersecurity professional with a Master's degree in Cybersecurity, specializing in security analysis, vulnerability assessment, and network security.
+Welcome to my GitHub profile! I am a dedicated cybersecurity professional with a strong foundation in security analysis, vulnerability assessment, and network security. With hands-on experience in industry-standard security tools and a comprehensive academic background, I am passionate about protecting digital assets and identifying security vulnerabilities. I thrive on solving complex security challenges and staying current with emerging threats and defensive strategies.
 
 ---
 
@@ -10,7 +8,7 @@ Welcome to my GitHub profile! I am a cybersecurity professional with a Master's 
 
 - **Email:** [charitharigela03@gmail.com](mailto:charitharigela03@gmail.com)
 - **Phone:** +1 (814) 504-2774
-- **LinkedIn:** [Add your LinkedIn profile]
+- **LinkedIn:** [linkedin.com/in/charitha-arigela-37a942395](https://www.linkedin.com/in/charitha-arigela-37a942395/)
 - **Location:** [Add your location if desired]
 
 ---
@@ -18,7 +16,7 @@ Welcome to my GitHub profile! I am a cybersecurity professional with a Master's 
 ## 🎓 Education
 
 **Master of Science in Cybersecurity**  
-[University Name] | [Graduation Year]
+Gannon University | 2025
 
 ---
 
