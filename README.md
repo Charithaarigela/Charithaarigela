@@ -9,7 +9,6 @@ M.S. Information Assurance and Cybersecurity candidate with hands-on experience 
 - **Email:** [charitharigela03@gmail.com](mailto:charitharigela03@gmail.com)
 - **Phone:** +1 (814) 504-2774
 - **LinkedIn:** [linkedin.com/in/charitha-arigela-37a942395](https://www.linkedin.com/in/charitha-arigela-37a942395/)
-
 - **Hugging Face:** [huggingface.co/charithaarigela](https://huggingface.co/charithaarigela)
 - **Location:** Erie, PA
 
