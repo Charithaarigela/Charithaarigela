@@ -9,21 +9,11 @@ Cybersecurity Analyst | Pennsylvania, USA | Open to work
 - **LinkedIn:** [linkedin.com/in/charitha-arigela-37a942395](https://www.linkedin.com/in/charitha-arigela-37a942395/)
 - **Hugging Face:** [huggingface.co/charithaarigela](https://huggingface.co/charithaarigela)
 - **Location:** Erie, PA
-- 
+
 # About Me
 M.S. Information Assurance and Cybersecurity candidate at Gannon University, specializing in penetration testing, vulnerability assessment, and AI-enhanced security solutions. I combine hands-on offensive security expertise with machine learning capabilities to develop intelligent approaches for threat detection and security automation. My technical foundation spans traditional penetration testing tools—Kali Linux, Burp Suite, Nessus, and Metasploit—alongside AI/ML frameworks for building security-focused applications. I've successfully automated vulnerability scanning across enterprise-scale environments, identifying critical CVEs and streamlining security workflows through Python scripting and tool integration. My work in deploying ML-powered biometric authentication systems demonstrates my ability to merge cybersecurity principles with emerging technologies.
 As a Cybersecurity Lab Assistant, I facilitate practical security training while continuously exploring the intersection of AI and cybersecurity. My approach emphasizes data-driven decision making: analyzing network traffic patterns with Wireshark, correlating security events through SIEM platforms, and applying digital forensics methodologies to incident response. Ranked Top 1% on TryHackMe in Network and Forensics paths, I maintain a strong commitment to hands-on learning and skill development.I focus on bridging the gap between traditional security operations and innovative AI applications—whether developing automated scanning solutions, implementing intelligent anomaly detection for network traffic, or securing machine learning deployments against potential vulnerabilities. My expertise in both defensive security practices and AI/ML deployment positions me to contribute to next-generation security solutions.
 Seeking entry-level opportunities in Digital Forensics, Network Security, or AI-Security Engineering where I can apply technical skills in penetration testing, security automation, and ML-driven threat analysis to protect organizational infrastructure
-
----
-
-## 📫 Contact Information
-
-- **Email:** [charitharigela03@gmail.com](mailto:charitharigela03@gmail.com)
-- **Phone:** +1 (814) 504-2774
-- **LinkedIn:** [linkedin.com/in/charitha-arigela-37a942395](https://www.linkedin.com/in/charitha-arigela-37a942395/)
-- **Hugging Face:** [huggingface.co/charithaarigela](https://huggingface.co/charithaarigela)
-- **Location:** Erie, PA
 
 ---
 
