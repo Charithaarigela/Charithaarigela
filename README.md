@@ -59,7 +59,7 @@ JNTUH, Telangana, India | May 2024
 ## 💼 Professional Experience
 
 ### Cybersecurity Lab Assistant
-**Gannon University** | Erie, PA | January 2025 – Present
+**Gannon University** | Erie, PA | January 2025 – December 2025
 - Manage Kali Linux VMs for 40+ students; automate setup with Bash scripts
 - Teach hands-on labs covering Wireshark, subnetting, and OSI model concepts
 - Provide technical support and mentorship to cybersecurity students
